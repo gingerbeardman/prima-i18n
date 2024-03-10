@@ -1,2 +1,2 @@
 # prima-i18n
-prima app English locatisation
+prima app English localisation
