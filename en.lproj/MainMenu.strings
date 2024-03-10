@@ -6,7 +6,7 @@
 "1Xt-HY-uBw.title" = "prima";
 
 /* Class = "NSTextFieldCell"; title = "位置調整"; ObjectID = "1YF-uc-KIc"; */
-"1YF-uc-KIc.title" = "Justify";
+"1YF-uc-KIc.title" = "Offset:";
 
 /* Class = "NSTextFieldCell"; title = "テープ幅："; ObjectID = "1Ze-FT-h0h"; */
 "1Ze-FT-h0h.title" = "Width:";
@@ -351,10 +351,10 @@
 "ogc-rX-tC1.title" = "Loosen";
 
 /* Class = "NSTextFieldCell"; title = "印刷方向："; ObjectID = "p3S-gz-e6X"; */
-"p3S-gz-e6X.title" = "Direction";
+"p3S-gz-e6X.title" = "Direction:";
 
 /* Class = "NSTextFieldCell"; title = "行間調整"; ObjectID = "pUq-3z-5Ee"; */
-"pUq-3z-5Ee.title" = "Leading";
+"pUq-3z-5Ee.title" = "Leading:";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
 "pa3-QI-u2k.title" = "Delete";
