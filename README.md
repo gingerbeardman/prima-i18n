@@ -9,6 +9,8 @@ This allows printing from macOS to the CASIO MEP-U10 label printer (called Memop
 
 ## Missing
 
+- Check for updates
 ![Screen shot 2024-03-10 at 16 23 00](https://github.com/gingerbeardman/prima-i18n/assets/49612/1c933f95-7a21-4e0a-adf2-64d46a288e63)
 
+- Open canned text
 ![Screen shot 2024-03-10 at 16 43 11](https://github.com/gingerbeardman/prima-i18n/assets/49612/cfa9666f-a1e3-4d41-93be-734fa9caf890)
