@@ -1,7 +1,12 @@
 # prima-i18n
-English localisation for the [prima](https://soft.macfeeling.com/prima.html) app by MacFeeling Software (Junichi Wataya).
+English localisation for [prima.app](https://soft.macfeeling.com/prima.html) by MacFeeling Software (Junichi Wataya).
 
 This allows printing from macOS to the CASIO MEP-U10 label printer (called Memopri in Japan; Labemo in ROW).
+
+## Installation
+
+1. Copy `en.lproj` folder to `/Applications/prima.app/Contents/Resources/en.lproj`
+2. Restart prima.app
 
 ## English
 
